@@ -1,0 +1,2 @@
+This application give the advantage of rika persion.
+Technology: Java Spring, API , Frontend Framework.
